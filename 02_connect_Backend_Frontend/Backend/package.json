@@ -1,0 +1,16 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "a demo app connecting frontend and backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aayush Jha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
