@@ -1,0 +1,21 @@
+{
+  "name": "03_project",
+  "version": "1.0.0",
+  "description": "Working with mongoose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "node"
+  ],
+  "author": "Aayush Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
